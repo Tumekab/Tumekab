@@ -1,9 +1,15 @@
 <h1 align="center">Hi 👋🏻, I'm Tumeka </h1>
 <h3 align="center">A fresh full-stack developer student from Bristol, UK 💫</h3>
+<p>Just recently graduated from DevelopMe_ , a 12 week intensive coding bootcamp. </p>
+<p>I have a real love for back-end development, building APIs, creating comprehensible database architecture and processing deployment.</p>
+<p>When it comes to front-end development I really enjoy being encouraged to push the boundries of CSS norms. Learning about how to think outside the box with design and effectively implementing this into personal projects.</p>
 
-- 🌱 I’m currently learning **React / Redux**
+<h3 align="left">What I'm currently up to</h3>
+<p>🌱 I’m currently learning: <strong>React / Redux</strong></p>
 
-- 📫 How to reach me **tumekaburston@gmail.com**
+
+<h3 align="left">Get in touch with me</h3>
+<p>📫 How to reach me <strong>tumekaburston@gmail.com</strong></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
