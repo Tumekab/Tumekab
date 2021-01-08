@@ -18,7 +18,7 @@
 
 <h3 align="left">What I'm currently up to:</h3>
 <p> 👩🏻‍💻 Building a personal Animal Crossing Islanders Tracker Web App </p>
-<p>🌱 I’m currently learning: <strong>React / Redux</strong> | <strong>Sonic Pi</strong> | <strong> three.js </strong></p>
+<p>🌱 I’m currently learning: <strong>Jquery</strong> | <strong>Sonic Pi</strong> | <strong> three.js </strong></p>
 
 
 <h3 align="left">Get in touch with me:</h3>
