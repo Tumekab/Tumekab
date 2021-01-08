@@ -17,6 +17,7 @@
  </ul>
 
 <h3 align="left">What I'm currently up to:</h3>
+<p> 👩🏻‍💻 Building a personal Animal Crossing Islanders Tracker Web App </p>
 <p>🌱 I’m currently learning: <strong>React / Redux</strong></p>
 
 
