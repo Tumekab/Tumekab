@@ -17,6 +17,7 @@
  </ul>
 
 <h3 align="left">What I'm currently up to:</h3>
+<p> 👾 Over at CodeHub collaborating with others to help re-build the Bristol Tech Fair website </p>
 <p> 👩🏻‍💻 Building a personal Animal Crossing Islanders Tracker Web App *<strong> currently looking for collaborators 👀</strong>*</p>
 <p>🌱 I’m currently learning: <strong>jQuery</strong> | <strong>Sonic Pi</strong> | <strong> three.js </strong></p>
 
