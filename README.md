@@ -15,6 +15,9 @@
   <li>Git</li>
   <li>Figma</li>
  </ul>
+ 
+ <h3 align="left">I run an instagram account about all things Web Dev</h3>
+  <strong>Check it out here:</strong> <a href="https://www.instagram.com/sad.phayze/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="tumeka-burston" height="30" width="40" /></a>
 
 <h3 align="left">What I'm currently up to:</h3>
 <p> 👾 Over at CodeHub collaborating with others to help re-build the Bristol Tech Fair website </p>
