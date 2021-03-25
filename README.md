@@ -1,36 +1,17 @@
 <h1 align="center">Hi 👋🏻, I'm Tumeka </h1>
 <h3 align="center">A fresh full-stack developer student from Bristol, UK 💫</h3>
-<p>Just recently graduated from DevelopMe_ , a 12 week intensive coding bootcamp. </p>
-<p>I have a real love for back-end development, building APIs, creating comprehensible database architecture and processing deployment.</p>
-<p>When it comes to front-end development I really enjoy being encouraged to push the boundries of CSS norms. Learning about how to think outside the box with design and effectively implementing this into personal projects.</p>
+<p>A graduate from Bristol's DevelopMe_ , a 12 week intensive coding bootcamp. </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<ul>
-  <li>Laravel</li>
-  <li>React / Redux </li>
-  <li>HTML5 & CSS </li>
-  <li>Javascript</li>
-  <li>PHP</li>
-  <li>MySQL</li>
-  <li>Git</li>
-  <li>Figma</li>
- </ul>
- 
- <h3 align="left">I run an instagram account about all things Web Dev</h3>
-  <strong>Check it out here:</strong> <a href="https://www.instagram.com/sad.phayze/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="tumeka-burston" height="30" width="40" /></a>
+### What I do
+I currently work for a creative design agency working alongside their UX teams creating prototypes for projects. 
+<br>Inclusivity and accessibiltily is at the heart of what I do. 
 
-<h3 align="left">What I'm currently up to:</h3>
-<p> 👾 Over at CodeHub collaborating with others to help re-build the Bristol Tech Fair website </p>
-<p> 👩🏻‍💻 Building a personal Animal Crossing Islanders Tracker Web App *<strong> currently looking for collaborators 👀</strong>*</p>
-<p>🌱 I’m currently learning: <strong>jQuery</strong> | <strong>Sonic Pi</strong> | <strong> three.js </strong></p>
-
+### What I'm up to
+👾 Building a personal Animal Crossing Islanders Tracker Web App
+🌱 I’m currently learning: Node.js | Express | three.js
+👩🏻‍💻 Over at CodeHub collaborating with others to help re-build the Bristol Tech Fair website
 
 <h3 align="left">Get in touch with me:</h3>
 <p>📫 How to reach me <strong>tumekaburston@gmail.com</strong></p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/tumeka-burston" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tumeka-burston" height="30" width="40" /></a>
-</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tumekab&show_icons=true&locale=en&layout=compact" alt="tumekab" /></p>
