@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏻, I'm Tumeka </h1>
-<h3 align="center">A fresh full-stack developer student from Bristol, UK 💫</h3>
+<h3 align="center">A fresh full-stack trainee developer from Bristol, UK 💫</h3>
 <p>A graduate from Bristol's DevelopMe_ , a 12 week intensive coding bootcamp. </p>
 
 ### What I do
