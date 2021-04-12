@@ -4,7 +4,7 @@
 
 ### What I do
 I currently work for a creative design agency working alongside their UX teams creating prototypes for projects. 
-<br>Inclusivity and accessibiltily is at the heart of what I do. 
+<br>Inclusivity and accessibility is at the heart of what I do. 
 
 ### What I'm up to
 👾 Building a personal Animal Crossing Islanders Tracker Web App <br>
