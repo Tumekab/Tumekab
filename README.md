@@ -8,7 +8,7 @@ I currently work for a creative design agency working alongside their UX teams c
 
 ### What I'm up to
 👾 Building a personal Animal Crossing Islanders Tracker Web App <br>
-🌱 I’m currently learning: Node.js | Express | three.js <br>
+🌱 I’m currently learning: Node.js | Express | Next.js <br>
 👩🏻‍💻 Over at CodeHub collaborating with others to help re-build the Bristol Tech Fair website
 
 <h3 align="left">Get in touch with me:</h3>
